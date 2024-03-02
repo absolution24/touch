@@ -556,6 +556,7 @@ body {
 .apps-favorite {
 	display: flex;
 	gap: 25px;
+	cursor: pointer;
 }
 .apps-favorite__item img {
 	max-width: 100%;
